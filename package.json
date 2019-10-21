@@ -1,0 +1,16 @@
+{
+  "name": "steal-issue-1510",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "steal-tools"
+  },
+  "dependencies": {
+    "simple-keyboard-layouts": "^1.0.0"
+  },
+  "devDependencies": {
+    "steal": "^2.2.3",
+    "steal-tools": "^2.0.0"
+  }
+}
